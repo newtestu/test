@@ -1,2 +1,6 @@
 new text
+<<<<<<< HEAD
 new information
+=======
+s
+>>>>>>> origin

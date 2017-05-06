@@ -4,3 +4,4 @@ new information
 =======
 s
 >>>>>>> origin
+changed
